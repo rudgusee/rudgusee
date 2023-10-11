@@ -3,7 +3,7 @@
 *****
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frudgusee%2Frudgusee.git&count_bg=%23F08AFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![rudgusee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![rudgusee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudgusee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 ## 💻 DEV's log 💻
 *****

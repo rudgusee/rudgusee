@@ -5,21 +5,6 @@
 
 [![rudgusee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudgusee&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/rudgusee/github-readme-stats)
 
-## 💻 DEV's log 💻
-*****
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=rudgusee)](https://velog.io/@rudgusee) 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rudgusee)](https://github.com/rudgusee/velog-readme-stats)
-
-*****
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:rudgusee@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
-
 
 *****
 
